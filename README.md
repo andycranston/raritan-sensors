@@ -14,7 +14,7 @@ By using the `movesensorslot.py` utility you can move any sensors not in the exp
 
 See this document for more information:
 
-(README-movesensorslot.md)
+[The movesensorslot.py utility](https://github.com/andycranston/raritan-sensors/blob/master/README-movesensorslot.md)
 
 ## settempthresholds.py
 
@@ -34,8 +34,8 @@ to set slightly higher thresholds.
 
 See this document for more information:
 
-(README-settempthresholds.md)
+[The settempthresholds.py utility](https://github.com/andycranston/raritan-sensors/blob/master/README-settempthresholds.md)
 
 -----------------------------------------------------------
 
-end of README.md
+End of README.md
