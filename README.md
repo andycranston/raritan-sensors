@@ -2,7 +2,7 @@
 
 Here are some utilities for managing sensors attached to
 a Raritan intelligent PDU.  The PDU must be running a recent
-version of the Xerus firmware.
+version of the Xerus firmware, say at least 3.3.x or higher.
 
 ## movesensorslot.py
 
